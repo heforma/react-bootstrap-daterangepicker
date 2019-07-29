@@ -33,7 +33,7 @@
   },
   "license": "Apache-2.0",
   "peerDependencies": {
-    "bootstrap-daterangepicker": "git+https://github.com/heforma/react-bootstrap-daterangepicker.git#master",
+    "bootstrap-daterangepicker": "*",
     "jquery": "*",
     "moment": "*",
     "prop-types": "*",
